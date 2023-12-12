@@ -1,0 +1,595 @@
+{
+    "result": {
+        "status": {
+            "code": 200,
+            "data": "success",
+            "executionTime": "0.98",
+            "requestTime": "2023-12-06 15:11:25",
+            "requestId": "b41740e1c1e181a11bc51e36d1106b0a",
+            "endpoint": "item_search",
+            "apiVersion": "3.2.5",
+            "functionsVersion": "3.0.8",
+            "la": "0.29",
+            "pmu": 648112,
+            "mu": 647792
+        },
+        "settings": {
+            "q": "Jordan Shoes",
+            "catId": "",
+            "brandId": "",
+            "loc": "",
+            "attr": "",
+            "sort": "default",
+            "page": "1",
+            "startPrice": "",
+            "endPrice": "",
+            "region": "US",
+            "locale": "en_US",
+            "currency": "USD"
+        },
+        "base": {
+            "hasNextPage": true,
+            "totalResults": 319,
+            "pageSize": 20,
+            "q": "Jordan Shoes",
+            "sortValues": [
+                "default",
+                "salesDesc",
+                "priceAsc",
+                "priceDesc",
+                "latest"
+            ],
+            "brandList": [],
+            "locationList": {
+                "name": "Ship From",
+                "list": [
+                    {
+                        "id": "US",
+                        "selected": false
+                    },
+                    {
+                        "id": "TR",
+                        "selected": false
+                    },
+                    {
+                        "id": "CN",
+                        "selected": false
+                    }
+                ]
+            },
+            "attributeList": [],
+            "categoryList": {
+                "name": "Categories",
+                "list": [
+                    {
+                        "name": "Sports & Entertainment",
+                        "id": 18,
+                        "selected": false
+                    },
+                    {
+                        "name": "Novelty & Special Use",
+                        "id": 200000875,
+                        "selected": false
+                    },
+                    {
+                        "name": "Home & Garden",
+                        "id": 15,
+                        "selected": false
+                    },
+                    {
+                        "name": "Jewelry & Accessories",
+                        "id": 1509,
+                        "selected": false
+                    },
+                    {
+                        "name": "Automobiles & Motorcycles",
+                        "id": 34,
+                        "selected": false
+                    },
+                    {
+                        "name": "Shoes",
+                        "id": 322,
+                        "selected": false
+                    },
+                    {
+                        "name": "Education & Office Supplies",
+                        "id": 21,
+                        "selected": false
+                    },
+                    {
+                        "name": "Tools",
+                        "id": 1420,
+                        "selected": false
+                    },
+                    {
+                        "name": "Mother & Kids",
+                        "id": 1501,
+                        "selected": false
+                    }
+                ]
+            }
+        },
+        "resultList": [
+            {
+                "item": {
+                    "itemId": 1005006065769874,
+                    "title": "Basketball Shoes Men Sneakers Boys Basket Shoes Autumn High Top Anti-slip Outdoor Sports Shoes Trainer Women Summer",
+                    "sales": 25,
+                    "image": "//ae01.alicdn.com/kf/Sb46cb5ea80c0476e98b40e7a2a8570d5l.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 21.89,
+                            "prices": {
+                                "pc": 21.89,
+                                "app": 21.89
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005005360604504,
+                    "title": "2023 Basketball Shoes Men Sneakers Men Boys Basket Shoes Autumn High Top Anti-slip Outdoor Sports Shoes Trainer Women Zapatillas",
+                    "sales": 223,
+                    "image": "//ae01.alicdn.com/kf/S53bc4d6918574f388e0d488399605cf76.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 22.47,
+                            "prices": {
+                                "pc": 22.47,
+                                "app": 22.47
+                            }
+                        }
+                    },
+                    "averageStarRate": 4.2
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006275029071,
+                    "title": "2023 Nike-Air Jordan Retro 5 5s Moonlight Mid High SE Women Men's Outdoor Basketball Retro Sneakers Sports Shoes 36-47 OA",
+                    "sales": 0,
+                    "image": "//ae01.alicdn.com/kf/S6cf0adfe6fb04063a663039a29f460afT.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 60.63,
+                            "prices": {
+                                "pc": 60.63,
+                                "app": 60.63
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006274985277,
+                    "title": "Nike-Air Jordan Retro 1 One AJ1 Mid Black Chile Red White Blue Women Men Jogging Outdoor Sports Sneakers Basketball Shoes OA",
+                    "sales": 0,
+                    "image": "//ae01.alicdn.com/kf/S09b55d2ea70f4400bf230f043693c2f2A.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 54.01,
+                            "prices": {
+                                "pc": 54.01,
+                                "app": 54.01
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006274146897,
+                    "title": "Nike-Air Jordan Retro 1 One AJ1 High Palomino UNC Toe Black Lucky blue Women Men Sports Sneakers Basketball Shoes OA",
+                    "sales": 1,
+                    "image": "//ae01.alicdn.com/kf/S01464f5b384f4105a722c5bb685871408.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 55.11,
+                            "prices": {
+                                "pc": 55.11,
+                                "app": 55.11
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006274919651,
+                    "title": "New Arrival Nike-Air Jordan retro 13 AJ13 Basketball Shoes Red Filt Bred White He Got Game Men Sneakers Women Sports Trainer OA",
+                    "sales": 1,
+                    "image": "//ae01.alicdn.com/kf/S5068351cf84e47c4a054c334b1f791e8F.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 58.42,
+                            "prices": {
+                                "pc": 58.42,
+                                "app": 58.42
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005003888350908,
+                    "title": "Leather Men's High Top Sneakers Basketball Shoes Men 2023 Unisex Sports Breathable Anti-Slip",
+                    "sales": 78,
+                    "image": "//ae01.alicdn.com/kf/S49dd0ec3cd3d41679d3203cbeb5b5561T.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 21.75,
+                            "prices": {
+                                "pc": 21.75,
+                                "app": 21.75
+                            }
+                        }
+                    },
+                    "averageStarRate": 4.6
+                },
+                "delivery": {
+                    "freeShipping": false,
+                    "shippingFee": null,
+                    "shippingDisplay": ""
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006306698306,
+                    "title": "Men Basketball Sports Shoes Jordan 1 Wholesale Fashion New Design",
+                    "sales": 0,
+                    "image": "//ae01.alicdn.com/kf/Scabfccb9e43043e08af0e0ac1fa4135e6.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 34.9,
+                            "prices": {
+                                "pc": 34.9,
+                                "app": 34.9
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": false,
+                    "shippingFee": null,
+                    "shippingDisplay": ""
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006247218026,
+                    "title": "Light Up Your Style: Jordan 1 Lightning Star - Casual, Versatile, and Lightweight",
+                    "sales": 0,
+                    "image": "//ae01.alicdn.com/kf/Sfaeaa8ef7f5f46a2885f0ebae874a350p.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 37.97,
+                            "prices": {
+                                "pc": 37.97,
+                                "app": 37.97
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006154598788,
+                    "title": "New Arrival Basketball Shoes for Men Breathable Confortable Sports Shoes Unisex Women Training Athletic Sneakers Men",
+                    "sales": 3,
+                    "image": "//ae01.alicdn.com/kf/S5ae75e0a8e8040cf9ce29975fd715483O.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 19.13,
+                            "prices": {
+                                "pc": 19.13,
+                                "app": 19.13
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005005958418483,
+                    "title": "HULD 2023 new Summer Men's Mesh Basketball Shoes Men High Top Sneakers Unisex Sports Breathable 2023 Dropshipping",
+                    "sales": 1,
+                    "image": "//ae01.alicdn.com/kf/Sbb3b565a5301430cb74b041fcf4f13a17.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 15.43,
+                            "prices": {
+                                "pc": 15.43,
+                                "app": 15.43
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": false,
+                    "shippingFee": null,
+                    "shippingDisplay": ""
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006183199530,
+                    "title": "Popcorn Ice Silk Jaca rotating button cool Breathable sneakers for couples ultra-light glow-in-the-dark cushioned running shoes",
+                    "sales": 0,
+                    "image": "//ae01.alicdn.com/kf/S6999c4bb14184c54a499e7e7b5265093s.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 29.6,
+                            "prices": {
+                                "pc": 29.6,
+                                "app": 29.6
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006287426970,
+                    "title": "Basketball Shoes for Men Lace-Up High Top Sneakers Mens Retro Basketball Shoes Breathable Trend Men Sneakers Walking Shoes",
+                    "sales": 0,
+                    "image": "//ae01.alicdn.com/kf/S4dfc38732b1e42a48cb0b8b5cd9d9841f.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 29.4,
+                            "prices": {
+                                "pc": 29.4,
+                                "app": 29.4
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005005158139468,
+                    "title": "Basketball Shoes Men Street Basketball Culture Cushioning Non-Slip Sport Shoes Women Gym Training Athletic Basketball Sneakers",
+                    "sales": 21,
+                    "image": "//ae01.alicdn.com/kf/S20265f05f87141ceac4d30c1a7703e08A.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 22.62,
+                            "prices": {
+                                "pc": 22.62,
+                                "app": 22.62
+                            }
+                        }
+                    },
+                    "averageStarRate": 3.9
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006164853125,
+                    "title": "Black Leather Shoes for Men Size 48 Height Increasing Winter Fashion Sneakers Plus Fur Warm Outdoor Cotton Casual Shoes Men Shoe",
+                    "sales": 5,
+                    "image": "//ae01.alicdn.com/kf/S9ba6f5a1ad404fb593ba20f1c17b69edz.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 17.19,
+                            "prices": {
+                                "pc": 17.19,
+                                "app": 17.19
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006143830752,
+                    "title": "New 4s Military Black Cat Sail Red Thunder White Oreo Cactus Jack 4 Blue University Infrared Cool Grey mens basketball shoes",
+                    "sales": 0,
+                    "image": "//ae01.alicdn.com/kf/Sf178d673890a479a85787cf942f2d2ecd.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 660,
+                            "prices": {
+                                "pc": 660,
+                                "app": 660
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006278947784,
+                    "title": "4-Tier Charleston Collection 16 Pairs Shoe Organizer, Gray storage organizer jordan 1 travis scott",
+                    "sales": 0,
+                    "image": "//ae01.alicdn.com/kf/S4c8c52e93c4d492a964704cbe815b777D.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 30.67,
+                            "prices": {
+                                "pc": 30.67,
+                                "app": 30.67
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": true,
+                    "shippingFee": 0,
+                    "shippingDisplay": "Free shipping"
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006051420611,
+                    "title": "TAFN Youpin Casual Shoes Men Stylish Outdoor Running Sport Air Cushion Trainer Athletic Comfortable Breathable Couple Sneakers",
+                    "sales": 0,
+                    "image": "//ae01.alicdn.com/kf/S87a181c864c94302b6029d3184f8d048q.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 34.27,
+                            "prices": {
+                                "pc": 34.27,
+                                "app": 34.27
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": false,
+                    "shippingFee": null,
+                    "shippingDisplay": ""
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005006271537051,
+                    "title": "New lightweight breathable men's running shoes fashion color matching flat-bottomed leisure lace walking outdoor sports shoeing",
+                    "sales": 0,
+                    "image": "//ae01.alicdn.com/kf/S8b80045f567b4f4fb92b54427723e258x.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 15.99,
+                            "prices": {
+                                "pc": 15.99,
+                                "app": 15.99
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": false,
+                    "shippingFee": null,
+                    "shippingDisplay": ""
+                }
+            },
+            {
+                "item": {
+                    "itemId": 1005004194333375,
+                    "title": "Umamusume: Pretty Derby Tosen Jordan Cosplay Shoes Boots Game Anime Halloween Chritmas RainbowCos0 W2398",
+                    "sales": 0,
+                    "image": "//ae01.alicdn.com/kf/S2c3d089ecac043f78768eabbc946d587a.jpg",
+                    "sku": {
+                        "def": {
+                            "price": null,
+                            "promotionPrice": 24.35,
+                            "prices": {
+                                "pc": 24.35,
+                                "app": 24.35
+                            }
+                        }
+                    },
+                    "averageStarRate": null
+                },
+                "delivery": {
+                    "freeShipping": false,
+                    "shippingFee": null,
+                    "shippingDisplay": ""
+                }
+            }
+        ]
+    }
+}
